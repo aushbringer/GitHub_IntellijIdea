@@ -1,0 +1,2 @@
+# GitHub_IntellijIdea
+一个Git连接IntellijIdea测试项目
